@@ -10,4 +10,4 @@ def max_integer(my_list=[]):
         if my_list[i] > max_d:
             max_d = my_list[i]
 
-    return (max_d)
+    return ("{:d}".fromat(max_d))
