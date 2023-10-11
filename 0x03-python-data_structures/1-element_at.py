@@ -7,7 +7,7 @@ def element_at(my_list, idx):
     if (idx < 0):
         return(NONE)
 
-    elif (idx > n_mylist):
+    elif (idx > (n_mylist) - 1):
         return(NONE)
 
     else:
