@@ -2,13 +2,9 @@
 
 def element_at(my_list, idx):
 
-    n_mylist = len(my_list)
+    n_mylist = (len(my_list) - 1)
 
-    if (idx < 0):
-        return(NONE)
+    if (idx < 0) or (idx > n_mylist):
+        return (NONE)
 
-    elif (idx > (n_mylist) - 1):
-        return(NONE)
-
-    else:
-        return(my_list[idx])
+    return(my_list[idx])
