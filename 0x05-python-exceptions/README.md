@@ -4,8 +4,8 @@ The 0x05. Python - Exceptions project introduces you to the world of Python erro
 
 ## Project Details
 
-**Author**: Martin Magonagona
-**Email**: martinmagonazz@outlook.com
+* **Author**: Martin Magonagona
+* **Email**: martinmagonazz@outlook.com
 
 ## Objectives
 
