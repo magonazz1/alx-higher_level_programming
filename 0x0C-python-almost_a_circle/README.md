@@ -1,6 +1,6 @@
 # 0x0C. Python - Almost a Circle
 
-![](https://github.com/magonazz1/alx-higher_level_programming/blob/master/0x0C-python-almost_a_circle/rcs/giphy.gif)
+![giphy.gif](./rcs/giphy.gif)
 
 ## Introduction
 This project is a part of the Higher-level Python curriculum, focusing on various aspects of Python programming, including Object-Oriented Programming (OOP) principles. The goal is to prepare you for more advanced projects, such as the AirBnB project.
