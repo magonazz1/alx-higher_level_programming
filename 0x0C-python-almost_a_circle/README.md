@@ -1,6 +1,6 @@
 # 0x0C. Python - Almost a Circle
 
-![Catloop](./rcs/giphy.mp4)
+![giphy.mp4](./rcs/giphy.mp4)
 
 ## Introduction
 This project is a part of the Higher-level Python curriculum, focusing on various aspects of Python programming, including Object-Oriented Programming (OOP) principles. The goal is to prepare you for more advanced projects, such as the AirBnB project.
