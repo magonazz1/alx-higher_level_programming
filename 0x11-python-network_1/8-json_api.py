@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Sending a POST request to http://0.0.0.0:5000/search_user with a given letter.
+"""Sends a POST request to http://0.0.0.0:5000/search_user with a given letter
 Command Usage: ./8-json_api.py <letter>
 PS: - The letter is sent as the value of the variable `q`.
 PS: - If no letter is provided, sends `q=""`.
